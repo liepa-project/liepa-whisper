@@ -1,0 +1,78 @@
+# 1 S0002
+1 0 0.12 <eps>
+1 0.12 0.69 Skvernelis
+1 0.69 1.23 atskleidžia
+1 1.23 1.59 planą
+1 1.59 2.1 chuliganą
+1 2.1 2.94 Baltarusijai
+1 2.94 2.97 <eps>
+1 2.97 3.48 Astravo
+0 3.48 3.96 atomine
+0 3.48 3.96 atominė
+1 3.48 3.96 atominę
+1 3.96 4.65 pakeisti
+1 4.65 4.68 <eps>
+0 4.68 5.01 dujų
+1 4.68 5.19 dujine
+0 4.68 5.19 dujinę
+0 5.01 5.19 ne
+1 5.19 5.25 <eps>
+
+# 2 S0000
+1 5.27 5.36 <eps>
+1 5.36 6.02 atominės
+1 6.02 6.98 elektrinės
+1 6.98 7.22 <eps>
+1 7.22 7.94 konversija
+1 7.94 8 į
+1 8 8.51 dujinę
+1 8.51 8.93 <eps>
+1 8.93 9.59 praktiškai
+1 9.59 10.16 neįmanoma
+1 10.16 10.34 <eps>
+
+# 3 S0002
+1 10.36 10.45 <eps>
+1 10.45 10.66 apie
+0 10.66 11.14 <pirmadieni>
+1 10.66 11.14 pirmadienį
+1 11.14 11.62 daugiau
+1 11.62 11.68 <eps>
+1 11.68 12.28 įprastų
+1 12.28 12.31 <eps>
+1 12.31 12.88 „Panoramos“
+1 12.88 13.36 laiku
+1 13.36 13.48 <eps>
+1 13.48 13.75 pusę
+1 13.75 14.41 devintos
+1 14.41 14.77 <eps>
+
+# 4 TYLA
+1 14.77 21.75 []
+
+# 5 S0001
+1 21.75 22.26 <eps>
+1 22.26 22.98 antradienio
+1 22.98 23.37 ryto
+1 23.37 23.97 allegro
+1 23.97 24.63 įsijungti
+0 23.97 24.69 įsijunkite
+1 24.63 24.66 į
+1 24.66 24.69 <eps>
+1 24.69 25.29 gyvenimą
+1 25.29 26.01 naujuoju
+0 26.01 26.52 albumo
+1 26.01 26.52 albumu
+1 26.52 26.55 <eps>
+1 26.55 26.82 <plei>
+1 26.82 27.21 <laif>
+0 26.82 27.21 laikų
+0 27.21 27.24 <eps>
+1 27.21 28.02 kviečiantys
+1 28.02 28.05 <eps>
+1 28.05 28.65 Subtilu
+0 28.05 28.68 subtilus
+0 28.05 29.04 <suptiluzė>
+1 28.65 29.04 <zė>
+1 29.04 29.25 <eps>
+
